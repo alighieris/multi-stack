@@ -11,14 +11,14 @@ desktops como em celulares, de forma que o cliente tenha a melhor experiência a
 
 A aplicação também utiliza a API do [ViaCEP](https://viacep.com.br/) para consultar a cidade referente ao CEP informado.
 ___
-Aplicação Web:
+Aplicação Web:<br>
 <img src="screenshots/front_web1.png">
 
-Aplicação Web após busca:
+Aplicação Web após busca:<br>
 <img src="screenshots/front_web2.png">
 
-Aplicação Web adaptiva a mobile:
+Aplicação Web adaptiva a mobile:<br>
 <img src="screenshots/fron_web3.png">
 
-Back-end para cadastro e gerenciamento:
+Back-end para cadastro e gerenciamento:<br>
 <img src="screenshots/back_cadastro.png">
